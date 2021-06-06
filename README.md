@@ -1,2 +1,2 @@
 # Chat-App
-real-time chat application
+The demo of real-time chat application for study only.
